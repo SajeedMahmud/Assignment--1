@@ -1,0 +1,57 @@
+Completed HTML tags:
+====================
+1. <!DOCTYPE>
+2. <html>
+3. <head>
+4. <title>
+5. <body>
+6. <div>
+7. <a>
+8. <ul>
+9. <li>
+10. <h1>
+11. <p>
+12. <h2>
+13. <h3>
+14. <h4> 
+
+Uncompleted HTML tags:
+======================
+1. <meta>
+2. <link>
+3. <button>
+4. <span>
+5. <nav>
+6. <section>
+7. <img>
+8. <i>
+9. <strong>
+10. <form>
+11. <input>
+12. <textarea>
+13. <footer>
+14. <script>
+
+Completed HTML attribute & attribute values:
+===========================================
+1. href=""
+2. id="" 
+
+Uncompleted HTML attribute & attribute values:
+=============================================
+1. lang="en"
+2. charset="ult-8"
+3. http-equiv=""
+4. content=""
+5. rel="stylesheet"
+6. src=""
+7. alt=""
+8. Class="btn"
+9. type=""
+10. autocomplete=""
+11. role=""
+12. data-target=""
+13. data-toggle=""
+14. Data-parent=""
+15. area=expanded=""
+16. required=""
